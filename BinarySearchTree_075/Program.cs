@@ -21,6 +21,11 @@ namespace BinarySearchTree_075
 
         )
     }
+    /* A Node class consist os three things, the information, reference to the right child and reference to the left child*/
+    class BinaryTree
+    {
+
+    }
     internal class Program
     {
         static void Main(string[] args)
